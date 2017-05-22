@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTML5",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Autumn",
+		"TypeScript"
+	]
+}
