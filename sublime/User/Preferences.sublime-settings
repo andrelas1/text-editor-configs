@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+	"color_scheme": "Packages/Agila Theme/Agila Origin Oceanic Next.tmTheme",
 	"ignored_packages":
 	[
+		"Colorsublime",
 		"Vintage"
 	]
 }
