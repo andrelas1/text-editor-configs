@@ -1,1 +1,13 @@
-/Users/andresantos/Library/Application Support/Code/User/settings.json
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.formatOnSave": true,
+    "typescript.useCodeSnippetsOnMethodSuggest": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "boundary",
+    "editor.renderControlCharacters": false,
+    "beautify.config": "~/Users/andresantos/workspace/pp/text-editor-settings/vs-code/.jsbeautifyrc",
+    "files.associations": {
+        "*.vue": "html"
+    },
+    "workbench.colorTheme": "Material Night Eighties"
+}
