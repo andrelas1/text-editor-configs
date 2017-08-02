@@ -9,5 +9,7 @@
     "files.associations": {
         "*.vue": "html"
     },
-    "workbench.colorTheme": "Material Night Eighties"
+    "workbench.colorTheme": "Dracula Soft",
+    "extensions.ignoreRecommendations": false,
+    "editor.minimap.enabled": false
 }
