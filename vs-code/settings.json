@@ -9,7 +9,8 @@
     "files.associations": {
         "*.vue": "html"
     },
-    "workbench.colorTheme": "Dracula Soft",
+    "workbench.colorTheme": "Markdown Editor Dark",
     "extensions.ignoreRecommendations": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2
 }
