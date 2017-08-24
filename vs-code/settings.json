@@ -9,7 +9,14 @@
     "files.associations": {
         "*.vue": "html"
     },
-    "workbench.colorTheme": "Dracula Soft",
+    "workbench.colorTheme": "Abyss",
     "extensions.ignoreRecommendations": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "vim.disableAnnoyingNeovimMessage": true,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 14,
+    "editor.fontWeight" : "400",
+    "editor.fontLigatures": true
 }
