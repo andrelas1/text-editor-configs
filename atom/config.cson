@@ -1,0 +1,12 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "oceanic-next"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "07ca3f78-338e-44ae-b729-6f573e4fc5ec"
+  welcome:
+    showOnStartup: false
