@@ -12,8 +12,8 @@
     ]
     telemetryConsent: "no"
     themes: [
-      "one-dark-ui"
-      "oceanic-next"
+      "atom-material-ui"
+      "one-dark-syntax"
     ]
   editor:
     fontFamily: "FiraCode-Light"
