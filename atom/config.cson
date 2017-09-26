@@ -1,12 +1,28 @@
 "*":
   core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+    ]
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
       "oceanic-next"
     ]
-  editor: {}
+  editor:
+    fontFamily: "FiraCode-Light"
+    showIndentGuide: true
+    showInvisibles: true
   "exception-reporting":
     userId: "07ca3f78-338e-44ae-b729-6f573e4fc5ec"
+  "linter-ui-default":
+    panelHeight: 101
+    showPanel: true
   welcome:
     showOnStartup: false
