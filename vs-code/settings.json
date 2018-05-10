@@ -2,23 +2,32 @@
 {
     "editor.formatOnSave": true,
     "typescript.useCodeSnippetsOnMethodSuggest": true,
-    "workbench.iconTheme": "vscode-icons",
     "editor.renderWhitespace": "boundary",
     "editor.renderControlCharacters": false,
     "beautify.config": "~/Users/andresantos/workspace/pp/text-editor-settings/vs-code/.jsbeautifyrc",
     "files.associations": {
-        "*.vue": "html"
+        "*.vue": "html",
+        "*.jsx": "html"
     },
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Atom One Dark",
     "extensions.ignoreRecommendations": false,
-    "editor.minimap.enabled": false,
     "editor.tabSize": 2,
     "editor.minimap.enabled": false,
     "window.zoomLevel": 0,
-    "vim.disableAnnoyingNeovimMessage": true,
-    "editor.tabSize": 2,
     "editor.fontFamily": "'Fira Code'",
     "editor.fontSize": 14,
     "editor.fontWeight": "200",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "explorer.confirmDelete": false,
+    "gitlens.keymap": "chorded",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
 }
