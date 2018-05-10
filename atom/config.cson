@@ -11,18 +11,21 @@
       "node_modules"
     ]
     telemetryConsent: "no"
-    themes: [
-      "atom-material-ui"
-      "one-dark-syntax"
-    ]
   editor:
     fontFamily: "FiraCode-Light"
+    scrollPastEnd: true
     showIndentGuide: true
     showInvisibles: true
   "exception-reporting":
     userId: "07ca3f78-338e-44ae-b729-6f573e4fc5ec"
+  "language-elm":
+    elmOraclePath: "/Users/andreluisasantos/.nvm/versions/node/v8.9.4/bin/elm-oracle"
   "linter-ui-default":
-    panelHeight: 101
+    panelHeight: 199
     showPanel: true
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+  "vim-mode-plus": {}
   welcome:
     showOnStartup: false
